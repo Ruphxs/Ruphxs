@@ -1,9 +1,7 @@
 <h1 align="center">✨ Hi, I'm Colby ✨</h1>
 <h3 align="center">🔒 A passionate first-year Cyber Security student from Canada 🍁</h3>
 
-<p align="center">
-<a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/badge/Follow-%40YourTwitter-blue?style=for-the-badge&logo=twitter"></a>
-</p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/colbynu" target="blank">
@@ -12,7 +10,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" height="200"/>
+  <img src="[https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif](https://giphy.com/gifs/hacker-anonymous-hacktivist-xTcnSWYZvafyhEACBO)" width="400" height="200"/>
 </div>
 
 ---
