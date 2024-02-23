@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif](https://giphy.com/gifs/hacker-anonymous-hacktivist-xTcnSWYZvafyhEACBO)" width="400" height="200"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNmaGI5ajZzbzF0amNmdXR4anJtb2tldnhiYzN3N2s1NjUwdW9tYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif" width="400" height="200"/>
 </div>
 
 ---
