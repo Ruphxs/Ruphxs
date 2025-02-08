@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hi, I'm Colby ✨</h1>
-<h3 align="center">🔒 A passionate first-year Cyber Security student from Canada 🍁</h3>
+<h3 align="center">🔒 A passionate second-year Cyber Security student from Canada 🍁</h3>
 
 
 
